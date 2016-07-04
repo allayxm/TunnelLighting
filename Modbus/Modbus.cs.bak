@@ -1,0 +1,343 @@
+﻿“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“E:\Work\隧道照明\新修改程序\TunnelLighting\ControlCell\bin\Debug\ControlCell.vshost.exe”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization\v4.0_4.0.0.0__31bf3856ad364e35\System.Windows.Forms.DataVisualization.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+线程 'vshost.NotifyLoad' (0xdfc) 已退出，返回值为 0 (0x0)。
+线程 'vshost.LoadReference' (0xa60) 已退出，返回值为 0 (0x0)。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“E:\Work\隧道照明\新修改程序\TunnelLighting\ControlCell\bin\Debug\ControlCell.exe”，符号已加载。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization.resources\v4.0_4.0.0.0_zh-Hans_31bf3856ad364e35\System.Windows.Forms.DataVisualization.resources.dll”
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“E:\Work\隧道照明\新修改程序\TunnelLighting\ControlCell\bin\Debug\DB.dll”，符号已加载。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“E:\Work\隧道照明\新修改程序\TunnelLighting\ControlCell\bin\Debug\Modbus.dll”，符号已加载。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“E:\Work\隧道照明\新修改程序\TunnelLighting\ControlCell\bin\Debug\Sensor.dll”，符号已加载。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll”，已跳过符号加载。已对模块进行了优化并启用了调试器选项“仅我的代码”。
+线程 'ModbusStateThread' (0xd30) 已退出，返回值为 0 (0x0)。
+线程 'MessageThread' (0x948) 已退出，返回值为 0 (0x0)。
+PWM数量:4
+线程 'PWMCurveThread' (0x18c) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+->收到的数据包3A-00-0E-01-01-51-5C-00-C3-00-00-00-00-00-00-01-73,耗时15
+线程 'LightThread' (0xdec) 已退出，返回值为 0 (0x0)。
+照度传感器照度值改变为2062
+线程 'LightThread' (0xd40) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xdc) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100000001
+线程 'LightThread' (0xae4) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-51-00-C7-00-00-FF-00-00-00-01-63,耗时46
+照度传感器照度值改变为1375
+PWM值改变为60
+PWM数量:4
+线程 'LightThread' (0xb84) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x938) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xc6c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x540) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+->收到的数据包3A-00-0E-06-01-48-2A-00-E9-00-00-FF-00-00-00-01-62,耗时46
+线程 'LightThread' (0xb3c) 已退出，返回值为 0 (0x0)。
+照度传感器照度值改变为1433
+线程 'LightThread' (0xd2c) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xd9c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xe94) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-E0-00-B3-00-00-FF-00-00-00-01-EE,耗时46
+照度传感器照度值改变为2234
+线程 'LightThread' (0xe98) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xf3c) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+->收到的数据包3A-00-0E-01-01-51-C2-00-C4-00-00-00-00-00-00-01-DA,耗时62
+线程 'LightThread' (0xd38) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xe8) 已退出，返回值为 0 (0x0)。
+照度传感器照度值改变为2089
+线程 'LightThread' (0xf04) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0x9fc) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-6B-00-C7-00-00-FF-00-00-00-01-7D,耗时46
+照度传感器照度值改变为1382
+线程 'LightThread' (0xed0) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xe8c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x3e4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x9f8) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x9e0) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-48-1B-00-E5-00-00-FF-00-00-00-01-4F,耗时46
+照度传感器照度值改变为1429
+线程 'LightThread' (0xbb4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x31c) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0x830) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-54-1A-00-B2-00-00-FF-00-00-00-01-28,耗时46
+普通队列时间片用完,耗时625毫秒
+照度传感器照度值改变为2249
+线程 'LightThread' (0x834) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x254) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0xa28) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-BB-00-C3-00-00-00-00-00-00-01-D2,耗时46
+照度传感器照度值改变为2087
+线程 'LightThread' (0xcf8) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xc28) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0x3a0) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-73-00-C8-00-00-FF-00-00-00-01-86,耗时62
+照度传感器照度值改变为1384
+线程 'LightThread' (0xd48) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x2d0) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xdd4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x1d4) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x324) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-48-18-00-E8-00-00-FF-00-00-00-01-4F,耗时46
+照度传感器照度值改变为1428
+线程 'LightThread' (0xc5c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xc0c) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xba0) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-9F-00-B1-00-00-FF-00-00-00-01-AB,耗时46
+照度传感器照度值改变为2216
+线程 'LightThread' (0xd68) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xdb4) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0x7bc) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-A8-00-C4-00-00-00-00-00-00-01-C0,耗时46
+照度传感器照度值改变为2082
+线程 'LightThread' (0xad4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xbc8) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0xbec) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-7D-00-C8-00-00-FF-00-00-00-01-90,耗时62
+照度传感器照度值改变为1387
+线程 'LightThread' (0x38c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x5b8) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xd20) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xb1c) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x148) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-48-17-00-EA-00-00-FF-00-00-00-01-50,耗时62
+线程 'LightThread' (0xb64) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xee0) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0x7f4) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-54-1A-00-B1-00-00-FF-00-00-00-01-27,耗时46
+照度传感器照度值改变为2249
+线程 'LightThread' (0x5cc) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 '<无名称>' (0x538) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0x9dc) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xb50) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0x6c8) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0x2c8) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0xd4) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0x578) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xe10) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-A7-00-C2-00-00-00-00-00-00-01-BD,耗时15
+普通队列时间片用完,耗时656毫秒
+线程 'LightThread' (0xd4c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xf40) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0xe80) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-85-00-C8-00-00-FF-00-00-00-01-98,耗时46
+照度传感器照度值改变为1389
+线程 'LightThread' (0x710) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xb4c) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xeec) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xb6c) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+普通队列时间片用完,耗时859毫秒
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x510) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-48-12-00-E5-00-00-FF-00-00-00-01-46,耗时46
+照度传感器照度值改变为1427
+线程 'LightThread' (0xffc) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xbd8) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xd84) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-DE-00-B2-00-00-FF-00-00-00-01-EB,耗时62
+照度传感器照度值改变为2233
+线程 'LightThread' (0x358) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x5c0) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0x2cc) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-B4-00-C3-00-00-00-00-00-00-01-CB,耗时46
+照度传感器照度值改变为2085
+线程 'LightThread' (0xd58) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xab0) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+->收到的数据包3A-00-0E-03-01-47-6D-00-C7-00-00-FF-00-00-00-01-7F,耗时46
+线程 'LightThread' (0xf5c) 已退出，返回值为 0 (0x0)。
+照度传感器照度值改变为1383
+线程 'LightThread' (0xbc0) 已退出，返回值为 0 (0x0)。
+线程 'DataTransactThread' (0xa88) 已退出，返回值为 0 (0x0)。
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“mscorlib.dll”类型的异常
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“ControlCell.exe”类型的异常
+“System.Threading.ThreadAbortException”类型的异常在 ControlCell.exe 中发生，但未在用户代码中进行处理
+线程 'MessageThread' (0xe60) 已退出，返回值为 0 (0x0)。
+线程 '<无名称>' (0xee8) 已退出，返回值为 0 (0x0)。
+线程 'StateCheckUpThread' (0x6a0) 已退出，返回值为 0 (0x0)。
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“mscorlib.dll”类型的异常
+“System.Threading.ThreadAbortException”类型的异常在 mscorlib.dll 中发生，但未在用户代码中进行处理
+线程 'ModuleWatchThread' (0xdb8) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x690) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xa80) 已退出，返回值为 0 (0x0)。
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll”
+“ControlCell.vshost.exe”(托管(v4.0.30319)): 已加载“C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_zh-Hans_b77a5c561934e089\mscorlib.resources.dll”
+线程 'LightThread' (0x3ac) 已退出，返回值为 0 (0x0)。
+线程 'ModbusStateThread' (0x87c) 已退出，返回值为 0 (0x0)。
+线程 'MessageThread' (0x378) 已退出，返回值为 0 (0x0)。
+PWM数量:4
+线程 'PWMCurveThread' (0x4fc) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+->收到的数据包3A-00-0E-01-01-51-AB-00-C4-00-00-00-00-00-00-01-C3,耗时46
+照度传感器照度值改变为2083
+线程 'LightThread' (0x8ac) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xc1c) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100000001
+线程 'LightThread' (0xad8) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-6D-00-C6-00-00-FF-00-00-00-01-7E,耗时46
+照度传感器照度值改变为1383
+PWM值改变为60
+PWM数量:4
+线程 'LightThread' (0xeb0) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x854) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0x46c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x86c) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0xccc) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-47-FA-00-EA-00-00-FF-00-00-00-01-32,耗时46
+照度传感器照度值改变为1420
+线程 'LightThread' (0x4bc) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x460) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xa50) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-2B-00-B4-00-00-FF-00-00-00-01-3A,耗时46
+照度传感器照度值改变为2185
+线程 'LightThread' (0xaa8) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x89c) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0xe54) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-AA-00-C3-00-00-00-00-00-00-01-C1,耗时46
+线程 'LightThread' (0x8f0) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x8f8) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0x4f0) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-68-00-C7-00-00-FF-00-00-00-01-7A,耗时62
+照度传感器照度值改变为1381
+线程 'LightThread' (0xc08) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x5d0) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0x91c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xfbc) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0xec4) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-47-E7-00-E9-00-00-FF-00-00-00-01-1E,耗时46
+照度传感器照度值改变为1415
+线程 'LightThread' (0xe64) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xa70) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xe7c) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-50-00-B3-00-00-FF-00-00-00-01-5E,耗时46
+照度传感器照度值改变为2195
+线程 'LightThread' (0x364) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xf20) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0x2ec) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-AA-00-C2-00-00-00-00-00-00-01-C0,耗时46
+线程 'LightThread' (0xbf8) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x950) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0xe08) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-67-00-C7-00-00-FF-00-00-00-01-79,耗时62
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“mscorlib.dll”类型的异常
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“ControlCell.exe”类型的异常
+“System.Threading.ThreadAbortException”类型的异常在 ControlCell.exe 中发生，但未在用户代码中进行处理
+线程 'StateCheckUpThread' (0x3d8) 已退出，返回值为 0 (0x0)。
+线程 'MessageThread' (0xaa0) 已退出，返回值为 0 (0x0)。
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“mscorlib.dll”类型的异常
+线程 '<无名称>' (0xf24) 已退出，返回值为 0 (0x0)。
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“ControlCell.exe”类型的异常
+“System.Threading.ThreadAbortException”类型的异常在 ControlCell.exe 中发生，但未在用户代码中进行处理
+线程 'DataTransactThread' (0x45c) 已退出，返回值为 0 (0x0)。
+在 System.Threading.ThreadAbortException 中第一次偶然出现的“mscorlib.dll”类型的异常
+“System.Threading.ThreadAbortException”类型的异常在 mscorlib.dll 中发生，但未在用户代码中进行处理
+线程 'ModuleWatchThread' (0x144) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xc8c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x450) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xf58) 已退出，返回值为 0 (0x0)。
+线程 'ModbusStateThread' (0xd1c) 已退出，返回值为 0 (0x0)。
+线程 'MessageThread' (0xec8) 已退出，返回值为 0 (0x0)。
+PWM数量:4
+线程 'PWMCurveThread' (0xa18) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+->收到的数据包3A-00-0E-01-01-51-A7-00-C4-00-00-00-00-00-00-01-BF,耗时46
+线程 'LightThread' (0xc48) 已退出，返回值为 0 (0x0)。
+照度传感器照度值改变为2082
+线程 'LightThread' (0x8a0) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xea0) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100000001
+线程 'LightThread' (0xc9c) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-65-00-C7-00-00-FF-00-00-00-01-77,耗时46
+照度传感器照度值改变为1381
+PWM值改变为60
+PWM数量:4
+线程 'LightThread' (0x8e4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xf4c) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xd28) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xd54) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x7fc) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-06-01-47-F5-00-E8-00-00-FF-00-00-00-01-2B,耗时62
+照度传感器照度值改变为1419
+线程 'LightThread' (0xeb8) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x50c) 已退出，返回值为 0 (0x0)。
+->目标地址7 发送的数据包→:0706000100808001
+线程 'LightThread' (0xa78) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-07-01-53-7F-00-B3-00-00-FF-00-00-00-01-8D,耗时46
+照度传感器照度值改变为2208
+线程 'LightThread' (0xa5c) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0x8a4) 已退出，返回值为 0 (0x0)。
+->目标地址1 发送的数据包→:0106000100000001
+线程 'LightThread' (0xb70) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-01-01-51-84-00-C3-00-00-00-00-00-00-01-9B,耗时46
+照度传感器照度值改变为2072
+线程 'LightThread' (0xec0) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xda4) 已退出，返回值为 0 (0x0)。
+->目标地址3 发送的数据包→:0306000100999933
+线程 'LightThread' (0xdec) 已退出，返回值为 0 (0x0)。
+->收到的数据包3A-00-0E-03-01-47-57-00-C7-00-00-FF-00-00-00-01-69,耗时62
+照度传感器照度值改变为1377
+线程 'LightThread' (0xd40) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xdc) 已退出，返回值为 0 (0x0)。
+->目标地址5 发送的数据包→:0506000100000001
+线程 'LightThread' (0xae4) 已退出，返回值为 0 (0x0)。
+线程 'LightThread' (0xb84) 已退出，返回值为 0 (0x0)。
+接收数据超时515毫秒 目标地址→5 
+->目标地址6 发送的数据包→:0606000100808001
+线程 'LightThread' (0x938) 已退出，返回值为 0 (0x0)。

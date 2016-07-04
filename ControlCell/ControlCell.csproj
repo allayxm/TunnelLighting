@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2D4D69D-CC06-4021-8675-A947E3EE567E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NCLT.TunnelLighting.ControlCell</RootNamespace>
+    <AssemblyName>ControlCell</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasicSetupControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicSetupControl.Designer.cs">
+      <DependentUpon>BasicSetupControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlModule.cs" />
+    <Compile Include="ControlModuleManage.cs" />
+    <Compile Include="ControlModuleSetupControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlModuleSetupControl.Designer.cs">
+      <DependentUpon>ControlModuleSetupControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Debug.cs" />
+    <Compile Include="LightControl.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectCarSensorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectCarSensorForm.Designer.cs">
+      <DependentUpon>SelectCarSensorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectLightenessSensorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectLightenessSensorForm.Designer.cs">
+      <DependentUpon>SelectLightenessSensorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetupForm.Designer.cs">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemConfig.cs" />
+    <Compile Include="TIniFile.cs" />
+    <EmbeddedResource Include="BasicSetupControl.resx">
+      <DependentUpon>BasicSetupControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlModuleSetupControl.resx">
+      <DependentUpon>ControlModuleSetupControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectCarSensorForm.resx">
+      <DependentUpon>SelectCarSensorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectLightenessSensorForm.resx">
+      <DependentUpon>SelectLightenessSensorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetupForm.resx">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SysCfg.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DB\DB.csproj">
+      <Project>{A119C190-999A-47B7-9C76-26EAE7C3C02E}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modbus\Modbus.csproj">
+      <Project>{C6F3B2EC-0664-4FD7-86F4-525C59E673D6}</Project>
+      <Name>Modbus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sensor\Sensor.csproj">
+      <Project>{F5AFF3DE-5229-49D1-AA24-1E6CD56BDEB8}</Project>
+      <Name>Sensor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\照明系统掉电.jpg" />
+    <None Include="Resources\照明系统供电.jpg" />
+    <None Include="Resources\蓄电池电压不足.jpg" />
+    <None Include="Resources\蓄电池电压.jpg" />
+    <None Include="Resources\浓度传感器掉电.jpg" />
+    <None Include="Resources\浓度.jpg" />
+    <None Include="Resources\洞内传感器掉电.jpg" />
+    <None Include="Resources\洞外传感器掉电.jpg" />
+    <None Include="Resources\洞内亮度.jpg" />
+    <None Include="Resources\车辆地感线圈掉电.jpg" />
+    <None Include="Resources\车辆传感器掉电.jpg" />
+    <None Include="Resources\车辆无车.jpg" />
+    <None Include="Resources\车辆有车.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\boo3_W.jpg" />
+    <None Include="Resources\b002_W.jpg" />
+    <None Include="Resources\b001_W.jpg" />
+    <None Include="Resources\b002.jpg" />
+    <None Include="Resources\b001.jpg" />
+    <None Include="Resources\b003.jpg" />
+    <None Include="Resources\boo3.jpg" />
+    <None Include="Resources\jieshou.jpg" />
+    <None Include="Resources\fasong1.jpg" />
+    <None Include="Resources\duankai1.jpg" />
+    <None Include="Resources\duankai.jpg" />
+    <None Include="Resources\fasong.jpg" />
+    <None Include="Resources\yx06.jpg" />
+    <None Include="Resources\yx05.jpg" />
+    <None Include="Resources\yx04.jpg" />
+    <None Include="Resources\yx03.jpg" />
+    <None Include="Resources\yx02.jpg" />
+    <None Include="Resources\yx01.jpg" />
+    <None Include="Resources\nn-01.jpg" />
+    <None Include="Resources\PWM.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
